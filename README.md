@@ -1,7 +1,3 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>- High school student in a technical programming course<br><br>- Focused on full stack development<br><br>- Experience with Spring Boot and REST APIs<br><br>- Front-end integration with HTML, CSS, and JavaScript<br><br>- Database handling using MySQL<br><br>- Version control with Git and GitHub<br><br>- Building real-world systems (CRUD, user management, etc.)<br><br>🚀 Goals<br><br>- Grow as a full stack developer<br><br>- Improve software architecture skills<br><br>- Build more complete and scalable projects
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/n%C3%ADcolas-silva-b37306323/) 
 
